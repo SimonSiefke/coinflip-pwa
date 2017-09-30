@@ -1,5 +1,7 @@
 # coinflip-pwa
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SimonSiefke/coinflip-pwa.svg)](https://greenkeeper.io/)
+
 > A Vue.js project.  
 > It fetches a random number from https://www.random.org to simlulate the outcome of a random coin flip.  
 > Live demo: http://explorer-indicator-10170.netlify.com
